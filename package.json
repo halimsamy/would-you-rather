@@ -1,0 +1,30 @@
+{
+  "name": "would-you-rather",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.4.1",
+    "@heroicons/react": "^1.0.4",
+    "@reduxjs/toolkit": "^1.6.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "autoprefixer": "^10.3.5",
+    "postcss": "^8.3.7",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-redux": "^7.2.5",
+    "react-redux-loading-bar": "^5.0.2",
+    "react-router-dom": "^5.3.0",
+    "redux": "^4.1.1",
+    "tailwindcss": "^2.2.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "vite": "^2.5.4"
+  }
+}
